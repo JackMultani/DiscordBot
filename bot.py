@@ -3,7 +3,7 @@ import sqlite3
 from keepalive import keep_alive
 
 client = discord.Client()
-token = 'OTIxOTUyOTczNDgyMDAwMzg0.Yb6ZnQ.FEFfhqs31LCee7RfcSlIpMFfm2A'
+//token has been removed for code for privacy purposes
 
 def add_player(player):
     db = sqlite3.connect('main.sqlite')
